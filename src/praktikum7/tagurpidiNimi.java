@@ -10,6 +10,7 @@ public class tagurpidiNimi {
 		char[] digit = nimi.toCharArray();
 		for(int i = digit.length - 1; i >= 0; i--)
 			System.out.print(digit[i]);
+		
 		System.out.println();
 
 	}
